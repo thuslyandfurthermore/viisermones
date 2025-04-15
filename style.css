@@ -1,20 +1,27 @@
 body {
-    background-color: black;
-    color:darkslategray;
-    
+    background-color:black;
+    color:aliceblue;
 }
-
+.main {
+    position: absolute;
+    max-width: 600px;
+    transform: translate(-50%,0);
+    left: 50%;
+}
+.title {
+    font-family: monospace;
+}
 .j {
-    color: coral;
+    color:darkcyan
 }
 .s {
-    color:seagreen;
+    color:deepskyblue
 }
 .z {
-    color:blueviolet;
+    color:royalblue
 }
 .both {
-    color:greenyellow
+    color:aqua
 }
 .vii {
     color: hotpink;
@@ -22,6 +29,7 @@ body {
     font-style: italic;
 }
 .poem {
+    color:indianred;
     font-family: monospace;
     font-style: italic;
 }
