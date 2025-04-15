@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color:darkslategray;
+    
+}
+
+.j {
+    color: coral;
+}
+.s {
+    color:seagreen;
+}
+.z {
+    color:blueviolet;
+}
+.both {
+    color:greenyellow
+}
+.vii {
+    color: hotpink;
+    font-family: monospace;
+    font-style: italic;
+}
+.poem {
+    font-family: monospace;
+    font-style: italic;
+}
